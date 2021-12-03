@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               ³ªÀÇ Ã¹ °³¹ß Æ÷Æ®Æú¸®¿À #TheoryDB
+title:               ë‚˜ì˜ ì²« ê°œë°œ í¬íŠ¸í´ë¦¬ì˜¤ #TheoryDB
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -13,12 +13,12 @@ url:                  https://youngmin30.github.io #https://theorydb.github.io
 baseurl:             "https://youngmin30.github.io"
 
 # A very short description of your page
-tagline:             "³ªÀÇ Ã¹ °³¹ß Æ÷Æ®Æú¸®¿À 2021"
+tagline:             "ë‚˜ì˜ ì²« ê°œë°œ í¬íŠ¸í´ë¦¬ì˜¤ 2021"
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  ¿Ü±¹ÀÎ¿¡°Ô ¿ì¸®¸»À» °¡¸£Ä¡°í, ³í¹®À» Áñ°Å¿öÇÏ´Ù°¡ ¿¬±¸¼Ò·Î °¡°Ô µÇ¾ú´Âµ¥ ¹ı·É¾È ÆíÁı±â¸¦ º¸°í ³î¶õ °³¹ßÀÚ°¡ µÇ°í ½ÍÀº ±¸Á÷ÀÚ :)
+  ì™¸êµ­ì¸ì—ê²Œ ìš°ë¦¬ë§ì„ ê°€ë¥´ì¹˜ê³ , ë…¼ë¬¸ì„ ì¦ê±°ì›Œí•˜ë‹¤ê°€ ì—°êµ¬ì†Œë¡œ ê°€ê²Œ ë˜ì—ˆëŠ”ë° ë²•ë ¹ì•ˆ í¸ì§‘ê¸°ë¥¼ ë³´ê³  ë†€ë¼ ê°œë°œìê°€ ë˜ê¸°ë¡œ ê²°ì‹¬ì„ êµ³íŒ êµ¬ì§ì :)
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
@@ -51,7 +51,7 @@ disqus: True
 disqus_shortname:    f-devportfolio
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2021.12. by ³ªÀÇ Ã¹ °³¹ß Æ÷Æ®Æú¸®¿À'
+copyright:           '&copy; 2021.12. by ë‚˜ì˜ ì²« ê°œë°œ í¬íŠ¸í´ë¦¬ì˜¤'
 
 # Format of the permalinks
 permalink:           pretty
@@ -139,4 +139,4 @@ tipue_search:
     files: [search.html, index.html, tags.html]
     categories: []
     tags: []
-    
+    s
